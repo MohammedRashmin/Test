@@ -1,0 +1,20 @@
+
+.Func{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+#St{
+    color: Blue;
+    text-align: center;
+    margin: left 500px; 
+}
+.jssection{
+    font-weight: bold;
+    margin-top: 40px;
+}
+#outtext{
+    color: red;
+}
