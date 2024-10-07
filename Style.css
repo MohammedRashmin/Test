@@ -1,0 +1,39 @@
+body {
+    display:contents;
+    justify-content: center;
+    text-align: center;
+
+}
+nav {
+    display:flex;
+    justify-content: space-around;
+
+}
+a {
+    background-color:goldenrod;
+    border-radius: 20px;  
+    cursor: pointer;
+    color: black;
+    text-decoration: none;
+    padding: 4px;
+}
+tr {
+justify-content: center;
+font-size: 15px;
+font-style: oblique;
+}
+.Container  {
+    max-width: 800px;
+    font-size: 15px;
+    font-weight: 600;
+    padding:  25px 40px 10px 40px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0);
+
+
+}
+input {  
+    cursor: pointer;
+    color: black;
+    text-decoration: none;
+    padding: 4px;
+}
